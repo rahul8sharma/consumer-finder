@@ -1,0 +1,14 @@
+Started GET "/" for 127.0.0.1 at 2018-11-19 22:48:24 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jombay/.rvm/gems/ruby-2.2.5/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jombay/.rvm/gems/ruby-2.2.5/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 245ms (Views: 7.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-19 22:54:02 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jombay/.rvm/gems/ruby-2.2.5/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jombay/.rvm/gems/ruby-2.2.5/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 103ms (Views: 4.7ms)
+
+
